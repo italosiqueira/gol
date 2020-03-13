@@ -3,3 +3,5 @@ This is a simple demonstration application used in the Jenkins Bootcamp course f
 ## Building the project
 
 The project is a simple multi-module Maven project. To build the whole project, just run `mvn install` from the root directory.
+
+* Triggering a build in a Jenkins Server somewhere...
